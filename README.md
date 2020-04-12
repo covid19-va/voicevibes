@@ -1,21 +1,31 @@
 # Covid Voice
 
-## Comparison between different works
+## Comparison of data collection between different works
 https://bit.ly/2Xt9iKu
 
 ---
 
-## Papers and codes
-1. [AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App](https://arxiv.org/pdf/2004.01275.pdf)<br>
-
+## Related papers and codes
+1. AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App<br>
+https://arxiv.org/pdf/2004.01275.pdf<br>
+2. FluSense: A Contactless Syndromic Surveillance Platform for Influenza-Like Illness in Hospital Waiting Areas<br>
+https://dl.acm.org/doi/abs/10.1145/3381014<br>
+3. Can Machine Learning Be Used to Recognize and Diagnose Coughs?<br>
+https://arxiv.org/pdf/2004.01495.pdf<br>
+4. Cough Detection Using Hidden Markov Models<br>
+https://arxiv.org/pdf/1904.12354.pdf<br>
 ___
 
 ## Related Datasets
-
+1. ESC-50: Dataset for Environmental Sound Classification<br>
+https://github.com/karolpiczak/ESC-50)<br>
+2. Dataset of cough sounds used by DetectNow team<br>
+https://osf.io/4pt2s/<br>
 ___
 
 ## Related tools
-1. [Librosa](https://librosa.github.io/librosa/)
+1. Librosa<br>
+https://librosa.github.io/librosa/<br>
 
 ---
 ## Learnings
