@@ -46,7 +46,7 @@ https://github.com/tyiannak/pyAudioAnalysis<br>
 https://pypi.org/project/PyAudio/<br>
 
 ---
-## Learnings
+## Related Learnings
 1. Profiling Humans from their Voice, Rita Singh<br>
 https://www.springer.com/gp/book/9789811527500<br>
 2. Feature engineering - Guide to Mel Freq Cepstral Coefficients (MFCC)<br>
