@@ -4,7 +4,26 @@ All references below needs to be evaluated and curated for their relevance.
 ## Comparison of data collection between different works
 https://bit.ly/2Xt9iKu
 
----
+___ 
+
+## Articles of interest
+- Nemesysco Reports Increased Interest for its Voice Analytics Technology for Remote Employee Wellness Monitoring<br>
+https://news.yahoo.com/nemesysco-reports-increased-interest-voice-112000785.html<br>
+- Israeli defense ministry launches COVID-19 voice-test study<br>
+https://www.google.com.sg/amp/s/mobile.reuters.com/article/amp/idUSKBN21B2YV<br>
+- Speech analysis cordio rambam trial test covid19<br>
+https://nocamels.com/2020/04/speech-analysis-cordio-rambam-trial-test-covid-19/<br>
+- The Israeli Inventions That Lessen The Healthcare System’s Burden<br>
+https://www.calcalistech.com/ctech/articles/0,7340,L-3803020,00.html<br>
+- 30 Israeli medical innovations to fight coronavirus<br>
+https://www.israel21c.org/30-israeli-medical-tech-solutions-to-help-fight-coronavirus/<br>
+- AI and the coronavirus fight: How artificial intelligence is taking on COVID-19<br>
+https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/?ftag=TRE-03-10aaa6b&bhid=60225044&mid=12783909<br>
+- Researchers struggle with COVID-19 voice detection apps – report<br>
+https://pharmaphorum.com/news/researchers-struggle-with-covid-voice-detection-apps-report/<br>
+
+
+___
 
 ## Related papers and codes (In no particular order)
 1. [paper] AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App<br>
