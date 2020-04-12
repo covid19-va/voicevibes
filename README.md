@@ -4,16 +4,16 @@ https://bit.ly/2Xt9iKu
 
 ---
 
-### Papers and codes
+## Papers and codes
 1. [AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App](https://arxiv.org/pdf/2004.01275.pdf)<br>
 
 ___
 
-### Related Datasets
+# Related Datasets
 
 ___
 
-### Related tools
+# Related tools
 1. [Librosa](https://librosa.github.io/librosa/)
 
 ---
