@@ -20,4 +20,9 @@ ___
 # Learnings
 1. Profiling Humans from their Voice, Rita Singh<br>
 https://www.springer.com/gp/book/9789811527500
+2. Feature engineering - Guide to Mel Freq Cepstral Coefficients (MFCC)
+http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+3. Feature engineering - Spectrogram
+https://blogs.bl.uk/sound-and-vision/2018/09/seeing-sound-what-is-a-spectrogram.html
+
 
