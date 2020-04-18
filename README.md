@@ -54,6 +54,8 @@ https://ieeexplore.ieee.org/document/6987276<br>
 https://github.com/karolpiczak/ESC-50)<br>
 2. Dataset of cough sounds used by DetectNow team<br>
 https://osf.io/4pt2s/<br>
+3. Kaggle Respiratory Sounds<br>
+https://www.kaggle.com/vbookshelf/respiratory-sound-database<br>
 ___
 
 ## Related tools
